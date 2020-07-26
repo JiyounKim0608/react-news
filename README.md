@@ -6,4 +6,6 @@ Users can post messages on chalkboard and then other users are able to react to 
 
 # Getting Started
 
+## Installation
+
 npm run start && npm run dev
