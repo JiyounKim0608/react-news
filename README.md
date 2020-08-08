@@ -14,6 +14,3 @@ $ npm start
 
 This Application has combined multiple requestes to the official Haacker News API to get various collection of data. To Build back end API.  
 
-# Demo
-
-![alt news]()
